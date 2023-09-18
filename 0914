@@ -1,0 +1,3 @@
+--정렬을 위한 ORDER BY 절
+SELECT * FROM EMP;
+ORDER BY SAL asc ; 
